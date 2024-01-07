@@ -2,6 +2,6 @@
 
 ## Learning Markup and editing
 
-Its a project for Coursera's IBM Getting started with Git and Github" course.
+It's a project for Coursera's IBM Getting Started with Git and GitHub" course.  
 
 
